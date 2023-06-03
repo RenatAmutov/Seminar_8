@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbzM/Eq9WvgHzQ0CNP9nkmM5+X6TOOzz4tWZ/pn0sHJ+5eWeRs/jqPPj5MjvW4xcRq6SXrgzjxKUJOsnBiLG8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Designer8\\Desktop\\Ренат\\Программирование\\Seminar_8\\ex_1\\task54.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Designer8\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Designer8\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Designer8\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Designer8\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

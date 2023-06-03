@@ -1,0 +1,15 @@
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\bin\Debug\net6.0\task54.exe
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\bin\Debug\net6.0\task54.deps.json
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\bin\Debug\net6.0\task54.runtimeconfig.json
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\bin\Debug\net6.0\task54.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\bin\Debug\net6.0\task54.pdb
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\task54.AssemblyInfo.cs
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\task54.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\refint\task54.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\task54.pdb
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\task54.genruntimeconfig.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Seminar_8\ex_1\obj\Debug\net6.0\ref\task54.dll
